@@ -1,2 +1,2 @@
-# SPARCS-website
-Website for SPARCS
+# RABBIT-website
+Website for RABBIT
